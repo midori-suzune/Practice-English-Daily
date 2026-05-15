@@ -1,5 +1,5 @@
 mackerel : cá thu ( n )
-simmer : hầm, ninh ( verb )
+simmer : cá thu (n)
 radish : củ cải ( n )
 daikon : củ cải trắng ( n )
 eggplant : cà tím (n)
@@ -11,8 +11,8 @@ curry : cà ri (n)
 illustrator : họa sĩ minh họa (n)
 turmoil : sự hỗn loạn (n)
 give yourself a round of applause : tự vỗ tay cho bản thân (idiom)
-blunt tool : công cụ cùn 
-nuged : sự đẩy nhẹ (n) 
+blunt tool : công cụ cùn
+nuged : sự đẩy nhẹ (n)
 gut: ruột (n)
 set out : bắt đầu làm gì (phrasal verb)
 clinical trial : thử nghiệm lâm sàng (n)
