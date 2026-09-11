@@ -31,80 +31,82 @@ TIÊU CHÍ CHẤT LƯỢNG NỘI DUNG:
 - **Văn phong**: Giải thích và ví dụ phải dễ hiểu, trực quan cho người học mọi độ tuổi, tránh dịch máy thô cứng.
 ---
 
-topic: Climate
 
+goggle : kính bảo hộ (a protective eyewear, often used in sports or industrial settings)
 
-pass : thẻ / vé định kỳ (a ticket or card that allows someone to enter or use a service, such as transportation or an event)
+badge : huy hiệu (a small emblem or token worn to signify membership, achievement, or authority)
 
-work out cheaper : tính ra rẻ hơn (to turn out to be less expensive than other options)
+cap : mũ (a head covering, often worn for protection, fashion, or as part of a uniform)
 
-pay a fare : trả tiền vé xe / cước phí (to give money in exchange for a ticket or fare for transportation)
+synaesthesia : hiện tượng cảm giác kèm / giao thoa cảm giác (a condition in which one sense is simultaneously perceived as if by one or more additional senses, such as seeing colors when hearing music)
 
-get it right : làm đúng, nhớ đúng (to do something correctly or accurately, often after making mistakes or adjustments)
+rogue : lạc loài, cá biệt, dị thường  (an individual or entity that behaves in an unpredictable, unconventional, or nonconforming manner, often deviating from established norms or expectations)
 
-on the far side of something : ở phía xa / phía bên kia của cái gì (on the opposite side or end of something, often referring to a location or position)
+loosely : một cách đại khái (in a general or approximate manner, not strictly or precisely)
 
-right over by something : ngay bên cạnh / ngay cạnh cái gì (in close proximity to something, often indicating a specific location or position)
+bacon : thịt xông khói (cured meat from the back or sides of a pig, often fried or grilled)
 
-orchard : vườn cây ăn quả (a piece of land where fruit trees are grown, often for commercial purposes)
+perky : vui vẻ, hoạt bát (cheerful, lively, or energetic in manner or appearance)
 
-run along something : chạy dọc theo cái gì (to move or extend in a line or direction parallel to something, often referring to a path or route)
+self-conscious : tự ti, e ngại (feeling undue awareness of oneself, often leading to discomfort or embarrassment in social situations)
 
-have the wrong something in one's head : nghĩ sai, nhớ nhầm về cái gì (to have an incorrect or mistaken belief or understanding about something, often leading to confusion or errors)
+endless : vô tận (having no limit or seeming to go on forever)
 
-work journey : chuyến đi làm (a travel or commute to work, contrasted with leisure trips)
+have something in common : có điểm chung (to share similar characteristics, interests, or qualities with someone or something else)
 
-porter : nhân viên khuân vác (a person employed to carry luggage, goods, or assist in a hospital/station/hotel)
+involuntary : vô thức, không tự chủ (done without conscious control or intention, often reflexive or automatic)
 
-take overtime : làm thêm giờ, nhận ca làm thêm (to work beyond regular scheduled hours for extra pay)
+repress : kìm nén (to hold back or restrain an emotion, thought, or desire, often unconsciously)
 
-direct debit : trích nợ tự động (an arrangement with a bank that allows a company to transfer money directly from an account)
+over time : theo thời gian (gradually or as time passes, often referring to changes or developments that occur slowly)
 
-there is no danger of something : không lo / không sợ bị nguy cơ gì (indicating that there is no risk or threat of something happening)
+dissertation : luận văn (a long essay or research paper written by a student, often for a university degree)
 
-pay over the counter : thanh toán trực tiếp tại quầy (to pay directly in person at a ticket office or service desk)
+empirical research : nghiên cứu thực nghiệm (research based on observation or experience rather than theory or pure logic)
 
-sound sensible : nghe có vẻ hợp lý (to seem reasonable, practical, or logical)
+auditory stimulation : kích thích thính giác (any external input that affects the sense of hearing, such as sounds, music, or noise)
 
-one-off charge : phí thu một lần duy nhất (a single payment or fee that is not recurring)
+blindfolded : bịt mắt (having one's eyes covered or obscured, often to prevent sight or vision)
 
-fair enough : hợp lý, được đấy (used to say that you understand and accept a statement or decision)
+illness : căn bệnh (a state of being unwell or having a disease, often affecting physical or mental health)
 
-bank statement : sao kê ngân hàng (a document provided by a bank summarizing transactions and balances)
+if anything : thực tế thì ngược lại / thậm chí còn... (used to suggest that the opposite of what was just mentioned is true, or to emphasize a point even more strongly)
 
-post : bưu điện (the system for sending letters/parcels, or the mail itself)
+multisensory : đa giác quan (involving or relating to multiple senses, such as sight, sound, touch, taste, and smell)
 
-kitchen drawer : ngăn kéo tủ bếp (a compartment in a kitchen cabinet used for storing utensils or papers)
+spoilt : hư hỏng, ôi thiu (having been damaged or ruined, often referring to food, objects, or behavior)
 
-tram : tàu điện  (a street vehicle that runs on rails)
+distress : nỗi thống khổ, phiền muộn(a state of extreme anxiety, sorrow, or pain, often caused by difficult or challenging circumstances)
 
-circuit round something : đi một vòng quanh cái gì (to travel or move in a circular route around a place)
+dull : buồn tẻ, nhạt nhẽo (lacking interest, excitement, or stimulation, often referring to experiences, objects, or personalities)
 
-open-top tour bus : xe buýt du lịch mui trần (a bus without a roof on top, typically used for sightseeing tours)
+hideous : kinh khủng, ghê tởm (extremely ugly, unpleasant, or offensive in appearance or character)
 
-express : xe buýt / tàu tốc hành (a fast service that travels directly with very few stops)
+vice versa : ngược lại (in the opposite order or manner, often used to indicate a reversal of roles or situations)
 
-can't stretch to : không đủ chi trả cho cái gì (to not be sufficient for a particular cost or route);
+blessing : phước lành (a beneficial or positive thing that brings happiness, success, or good fortune)
 
-ticket on board : vé xe (a ticket bought or issued directly inside the vehicle rather than in advance)
+celebrity : người nổi tiếng (a famous person, often in entertainment, sports, or public life)
 
-fast link to something : tuyến liên kết nhanh đến đâu (a direct or high-speed transport connection to a destination)
+benefit : mang lại lợi ích, hưởng lợi ( to receive an advantage or positive outcome from something, often referring to personal gain or improvement)
 
-day to day : hàng ngày (occurring regularly or routine day-to-day use)
+peculiar : đặc biệt, lạ thường (strange, unusual, or distinctive in a way that sets something apart from the ordinary)
 
-get on : bước lên xe (to board or enter a bus, train, or plane)
+predominantly : chủ yếu (mainly or for the most part, often referring to the majority of something)
 
-board : lên xe (to enter or get onto a vehicle)
+hereditary condition : bệnh di truyền / tình trạng di truyền (a medical condition or trait that is passed down from parents to offspring through genes)
 
-conductor : người soát vé (a person responsible for checking tickets and helping passengers on a train or tram)
+mnemonics : phương pháp ghi nhớ  (techniques or strategies used to improve memory and aid in the recall of information, often through associations or patterns)
 
-other way round : ngược lại (in the opposite manner, order, or direction)
+to that end : vì mục đích đó (used to indicate that a particular action or statement is intended to achieve a specific goal or outcome)
 
-freeze ticket / card : khóa thẻ (to temporarily suspend or deactivate a ticket or pass so it cannot be used)
+corroborate : chứng thực, xác nhận (to confirm or support a statement, theory, or finding with additional evidence or information)
 
-that's reassuring : thật yên tâm / nghe thế thì đỡ lo (providing relief or comfort when facing an uncertain situation)
+be more than something : không chỉ đơn thuần là gì (to exceed or surpass a particular quality, expectation, or characteristic, often indicating that something has additional value or significance)
 
-make it all easy : làm cho mọi thứ trở nên rất thuận tiện / dễ dàng (to simplify a process or task for someone)
+imitate : bắt chước (to copy or mimic the behavior, appearance, or actions of someone or something, often for learning or entertainment purposes)
+
+induce : gây ra, dẫn đến (to cause or bring about a particular effect, often through influence or persuasion)
 
 
 
