@@ -32,3 +32,24 @@ with no need for something : không cần đến điều gì (to be able to func
 
 be cut out to be : phù hợp để trở thành (to have the necessary qualities, skills, or characteristics to succeed in a particular role, profession, or activity)
 
+### new 
+
+get that far: đi xa đến mức đó (to reach a certain point, level, or stage in a process, activity, or situation)
+
+kick back : thư giãn, nghỉ ngơi (to take a break or relax, often after a period of work or stress)
+
+forge : rèn luyện, tạo dựng (to create or develop something through effort, skill, or perseverance, often referring to relationships, careers, or opportunities)
+
+such greed : sự tham lam như vậy (an excessive desire for wealth, power, or possessions, often at the expense of others)
+
+repulsive : đáng ghê tởm, kinh tởm (causing strong feelings of disgust or aversion, often due to offensive or unpleasant qualities)
+
+cram : nhồi nhét, học nhồi nhét (to force a large amount of information or material into a short period of time, often for the purpose of studying or memorization)
+
+
+scramble to catch up : vội vã để bắt kịp (to make a hurried effort to reach the same level or position as others, often after falling behind)
+
+
+
+
+
