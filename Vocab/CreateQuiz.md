@@ -31,19 +31,26 @@ TIÊU CHÍ CHẤT LƯỢNG NỘI DUNG:
 - **Văn phong**: Giải thích và ví dụ phải dễ hiểu, trực quan cho người học mọi độ tuổi, tránh dịch máy thô cứng.
 ---
 
-get that far: đi xa đến mức đó (to reach a certain point, level, or stage in a process, activity, or situation)
+be in shape : thể lực tốt (to be physically fit and healthy, often through regular exercise and proper nutrition)
 
-kick back : thư giãn, nghỉ ngơi (to take a break or relax, often after a period of work or stress)
+ride : chuyến đi (a journey made on or in a vehicle, such as a bicycle, motorcycle, or car, often for leisure or transportation)
 
-forge : rèn luyện, tạo dựng (to create or develop something through effort, skill, or perseverance, often referring to relationships, careers, or opportunities)
+leisurely : nhàn nhã, thong thả (relaxed and unhurried, often associated with leisure activities or a calm lifestyle)
 
-such greed : sự tham lam như vậy (an excessive desire for wealth, power, or possessions, often at the expense of others)
+trail : đường mòn (a path or track, often in a natural setting, used for walking, hiking, or biking)
 
-repulsive : đáng ghê tởm, kinh tởm (causing strong feelings of disgust or aversion, often due to offensive or unpleasant qualities)
+make lavish use of something : sử dụng nhiều / dồi dào cái gì đó (to use something generously, abundantly, or in large quantities)
 
-cram : nhồi nhét, học nhồi nhét (to force a large amount of information or material into a short period of time, often for the purpose of studying or memorization)
+sound fabulous : nghe tuyệt vời (to seem or appear extremely impressive, attractive, or enjoyable when described or heard)
 
+vigilant : cảnh giác, cẩn thận (always alert and watchful, especially in order to detect or prevent danger or problems)
 
-scramble to catch up : vội vã để bắt kịp (to make a hurried effort to reach the same level or position as others, often after falling behind)
+under threat : đang bị đe dọa (being in a situation where there is a risk of harm, danger, or negative consequences)
 
+be of one mind : đồng lòng, nhất trí (to share the same opinion, belief, or perspective with others, often indicating agreement or unity in thought)
 
+massacre : cuộc thảm sát (the deliberate and brutal killing of a large number of people, often in a violent or indiscriminate manner)
+
+confront : đối mặt (to face or deal with a difficult situation, challenge, or person directly, often requiring courage or determination)
+
+phenomenally : phi thường (to an extraordinary or exceptional degree, often used to describe remarkable abilities, achievements, or events)
