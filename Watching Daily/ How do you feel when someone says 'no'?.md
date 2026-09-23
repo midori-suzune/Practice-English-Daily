@@ -16,4 +16,5 @@ come easier : dễ dàng hơn (to become less difficult or more manageable, ofte
 
 in a good way  : một cách tốt đẹp (to have a positive or beneficial effect, often indicating improvement or favorable outcomes)
 
-socially a
+socially anxious : lo lắng về mặt xã hội (experiencing nervousness, fear, or discomfort in social situations, often due to concerns about judgment or evaluation by others)
+
