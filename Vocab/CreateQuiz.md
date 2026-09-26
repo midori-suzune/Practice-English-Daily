@@ -31,26 +31,42 @@ TIÊU CHÍ CHẤT LƯỢNG NỘI DUNG:
 - **Văn phong**: Giải thích và ví dụ phải dễ hiểu, trực quan cho người học mọi độ tuổi, tránh dịch máy thô cứng.
 ---
 
-be in shape : thể lực tốt (to be physically fit and healthy, often through regular exercise and proper nutrition)
+cement : xi măng (a grey powder that sets hard after being mixed with water, sand, and gravel, used in building)
 
-ride : chuyến đi (a journey made on or in a vehicle, such as a bicycle, motorcycle, or car, often for leisure or transportation)
+concrete : bê tông (a hard building material made by mixing cement, sand, gravel, and water)
 
-leisurely : nhàn nhã, thong thả (relaxed and unhurried, often associated with leisure activities or a calm lifestyle)
+aggravate : làm trầm trọng thêm (to make a situation, problem, or feeling worse or more severe, often by adding to it or intensifying it)
 
-trail : đường mòn (a path or track, often in a natural setting, used for walking, hiking, or biking)
+scramble for something : cuộc tranh giành cái gì đó (a struggle or competition with others to obtain or achieve something, often in a hurried or chaotic manner)
 
-make lavish use of something : sử dụng nhiều / dồi dào cái gì đó (to use something generously, abundantly, or in large quantities)
+underpin : củng cố, làm vững chắc (to support, strengthen, or justify something, often by providing evidence, reasoning, or additional information)
 
-sound fabulous : nghe tuyệt vời (to seem or appear extremely impressive, attractive, or enjoyable when described or heard)
+sheer : hoàn toàn, tuyệt đối (complete or absolute, often indicating a high degree or intensity of something)
 
-vigilant : cảnh giác, cẩn thận (always alert and watchful, especially in order to detect or prevent danger or problems)
+in abundance : với số lượng lớn, dồi dào (existing or available in large quantities, often indicating plenty or excess)
 
-under threat : đang bị đe dọa (being in a situation where there is a risk of harm, danger, or negative consequences)
+thermal expansion : sự giãn nở nhiệt (the increase in size or volume of a material or substance due to an increase in temperature, often resulting in expansion or deformation)
 
-be of one mind : đồng lòng, nhất trí (to share the same opinion, belief, or perspective with others, often indicating agreement or unity in thought)
+straightforward : đơn giản, dễ hiểu (easy to understand or do, often indicating clarity or simplicity)
 
-massacre : cuộc thảm sát (the deliberate and brutal killing of a large number of people, often in a violent or indiscriminate manner)
+susceptible : dễ bị ảnh hưởng, dễ bị tác động (likely to be influenced, affected, or harmed by something, often indicating vulnerability or sensitivity)
 
-confront : đối mặt (to face or deal with a difficult situation, challenge, or person directly, often requiring courage or determination)
+adhesive : chất kết dính (a substance used to bond or stick materials together, often providing adhesion or cohesion)
 
-phenomenally : phi thường (to an extraordinary or exceptional degree, often used to describe remarkable abilities, achievements, or events)
+crosswise : theo chiều ngang (in a direction or orientation that is perpendicular to the length or main axis of something, often indicating a horizontal arrangement)
+
+vice-president : phó chủ tịch (a person who holds a position of authority or leadership in an organization, often serving as a deputy or second-in-command to the president or leader)
+
+Finland : Phần Lan (a country in Northern Europe, known for its high quality of life, education system, and natural landscapes)
+
+ash and slag : tro và xỉ (the solid residue left after the combustion of a material, often consisting of ash and other byproducts)
+
+iron ore : quặng sắt (a naturally occurring mineral from which iron can be extracted, often used in the production of steel and other iron-based products)
+
+byproduct : sản phẩm phụ (a secondary product or result that is produced in addition to the main product, often as a byproduct of a process or activity)
+
+power plant : nhà máy điện (a facility that generates electricity, often using various energy sources such as fossil fuels, nuclear energy, or renewable resources)
+
+content : hàm lượng (the amount or proportion of a substance or component present in a mixture, material, or product, often indicating its composition or concentration)
+
+resistance : sự phản đối, sự kháng cự (the ability to withstand or oppose something, often indicating strength, durability, or opposition to change or influence)
