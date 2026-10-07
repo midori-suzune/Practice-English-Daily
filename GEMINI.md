@@ -14,25 +14,7 @@ Agent được quyền thực thi các công cụ và lệnh terminal phục v�
 
 > ⚠️ **Chỉ hỏi xác nhận khi**: Thực hiện các thao tác phá hủy dữ liệu (như `rm -rf`, `git reset --hard`, `git push --force`).
 
----
-
-## 2. Quy Cách Ghi Chép Từ Vựng (`Watching Daily/`, `Review Listening Test/`,...)
-
-Mỗi khi hỗ trợ kiểm tra hoặc tạo ghi chú từ vựng mới:
-1. **Định dạng mỗi dòng**:
-   ```text
-   term : <nghĩa tiếng Việt chính xác theo ngữ cảnh> (<định nghĩa tiếng Anh súc tích, chuẩn ngữ cảnh>)
-   ```
-2. **Độ chính xác ngữ cảnh**:
-   - Đối chiếu với bài nghe/đọc gốc (BBC 6 Minute English, IELTS Listening Test,...).
-   - Dịch đúng sắc thái văn cảnh bài học (ví dụ: `visceral pain` là cơn đau nội tạng / đau thắt tâm can; `skip` là thùng chứa phế thải xây dựng; `hose down` là xịt rửa bằng vòi nước).
-3. **Kiểm tra chính tả**: Rà soát kỹ chính tả tiếng Việt (dấu thanh, bộ gõ telex) và tiếng Anh trước khi hoàn tất.
-
----
-
-
-
-## 3. Quy Cách Đặt Thông Điệp Commit Git (Git Commit Convention)
+## 2. Quy Cách Đặt Thông Điệp Commit Git (Git Commit Convention)
 
 Khi thực hiện commit các thay đổi trong kho lưu trữ, tuân thủ đúng định dạng chuẩn trong lịch sử Git của dự án:
 
@@ -65,7 +47,7 @@ Khi thực hiện commit các thay đổi trong kho lưu trữ, tuân thủ đú
 
 ---
 
-## 4. Quy Cách Phân Tích Câu / Cụm Tiếng Anh (English Analysis Convention)
+## 3. Quy Cách Phân Tích Câu / Cụm Tiếng Anh (English Analysis Convention)
 
 Mỗi khi người dùng gửi một câu, cụm từ hoặc đoạn văn tiếng Anh để hỏi nghĩa hoặc học:
 > 💡 **Phạm vi phản hồi**: Phân tích trực tiếp trong đoạn chat theo các mục bên dưới. **Tuyệt đối KHÔNG tự ý ghi vào file, KHÔNG commit/push** trừ khi người dùng yêu cầu rõ ràng.
