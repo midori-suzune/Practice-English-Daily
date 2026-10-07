@@ -4,13 +4,13 @@ Dự án này phục vụ việc học và luyện thi IELTS hàng ngày (Listen
 
 ---
 
-## 1. Quyền Thực Thi Tự Động (Autonomous Execution)
+## 1. Quyền Thực Thi Tự Động & Phạm Vi Kích Hoạt (Autonomous Execution & Scope)
 
-Agent được toàn quyền **tự động thực thi ngay lập tức** các công cụ và lệnh terminal phục vụ học tập, tra cứu và chỉnh sửa tài liệu mà **KHÔNG CẦN HỎI XÁC NHẬN TRƯỚC**:
-- **Thao tác Git an toàn**: `git status`, `git diff`, `git log`, `git add`, `git commit`, `git push`
-- **Thao tác đọc & kiểm tra file/thư mục**: `ls`, `cat`, `grep`, `find`, `head`, `tail`, `view_file`
-- **Thao tác chỉnh sửa & tạo file**: `write_to_file`, `replace_file_content`
-- **Công cụ hỗ trợ tra cứu bài học & trích xuất transcript**: `python3`, `curl`, `pdftotext`, `yt-dlp`
+Agent được quyền thực thi các công cụ và lệnh terminal phục vụ học tập, tra cứu và xử lý tài liệu mà không cần hỏi xác nhận trước:
+- **Thao tác tra cứu & đọc**: `git status`, `git diff`, `git log`, `ls`, `cat`, `grep`, `find`, `view_file`, `python3`, `curl`, `pdftotext`, `yt-dlp`.
+- **Thao tác ghi file & Git commit/push**: **CHỈ THỰC HIỆN KHI NGƯỜI DÙNG YÊU CẦU CỤ THỂ** (ví dụ: *"lưu vào file"*, *"thêm vào ghi chú"*, *"commit cho tôi"*,...):
+  - Tuyệt đối **KHÔNG tự ý ghi vào file** hoặc **tự ý commit/push** khi người dùng chỉ gửi câu/cụm từ để hỏi nghĩa hoặc học. Khi đó chỉ phân tích theo Mục 4.
+  - Khi đã có yêu cầu cập nhật/lưu từ người dùng, Agent tự động thực hiện `write_to_file`, `replace_file_content`, `git add`, `git commit`, `git push` theo đúng quy chuẩn mà không cần hỏi lại từng bước.
 
 > ⚠️ **Chỉ hỏi xác nhận khi**: Thực hiện các thao tác phá hủy dữ liệu (như `rm -rf`, `git reset --hard`, `git push --force`).
 
@@ -68,6 +68,8 @@ Khi thực hiện commit các thay đổi trong kho lưu trữ, tuân thủ đú
 ## 4. Quy Cách Phân Tích Câu / Cụm Tiếng Anh (English Analysis Convention)
 
 Mỗi khi người dùng gửi một câu, cụm từ hoặc đoạn văn tiếng Anh để hỏi nghĩa hoặc học:
+> 💡 **Phạm vi phản hồi**: Phân tích trực tiếp trong đoạn chat theo các mục bên dưới. **Tuyệt đối KHÔNG tự ý ghi vào file, KHÔNG commit/push** trừ khi người dùng yêu cầu rõ ràng.
+
 1. **Dịch nghĩa tổng thể theo ngữ cảnh**:
    - Dịch mượt mà, tự nhiên và bám sát đúng văn cảnh (giao tiếp đời sống, anime/rom-com, tin tức báo chí, học thuật IELTS,...).
 2. **Bóc tách các cụm từ & cấu trúc "đắt giá" (Key Takeaways)**:
