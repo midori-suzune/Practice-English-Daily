@@ -1,18 +1,18 @@
+topic : Heartbreak
 
+superstition : sự mê tín, điều mê tín (a belief or practice resulting from ignorance, fear of the unknown, or trust in magic or chance, often indicating irrational thinking)
 
+attachment theory : thuyết gắn bó (a psychological theory stating that children's early relationships with their parents shape and impact their romantic relationships as adults)
 
-topic : heartbreak
+addicted to each other : gắn bó với nhau (a strong emotional and physical attachment to a romantic partner, often leading to dependency and difficulty functioning without them)
 
+oriented / orientated towards : hướng về ai đó, xem ai đó là trọng tâm (focused completely on someone or something so that you think about them before others)
 
-supperstition : mê tín (a belief or practice resulting from ignorance, fear of the unknown, or trust in magic or chance, often indicating irrational thinking or cultural beliefs)
+social bonds : sự gắn kết tình cảm (the emotional connections and relationships that people form with others, often providing support, comfort, and a sense of belonging)
 
-addicted to each other : gắn bó sâu sắc với nhau (having a strong emotional or physical attachment to someone, often indicating a dependency or intense connection)
+longevity : tuổi thọ (the length of time that someone or something lives or lasts, often indicating long life or endurance)
 
-social bonds : mối quan hệ xã hội (the connections and relationships between individuals in a society, often indicating the importance of social interaction and support)
+overlap : trùng khớp, giao nhau (to share common areas or activate the same brain regions; to extend over and cover part of the same area)
 
-longevity : tuổi thọ (the length of time that something or someone lives or lasts, often indicating durability or endurance)
-
-overlap : chồng chéo (to extend over and cover a part of something else, often indicating a shared or common area or feature)
-
-visceral pain : nỗi đau sâu bên trong (a deep, instinctive, and emotional pain that is often difficult to articulate or rationalize, often indicating a profound impact on one's emotional state)
+visceral pain : đau dữ dội, đau thấu xương (a deep, intense pain that is felt in the internal organs or body, often associated with emotional distress)
 
