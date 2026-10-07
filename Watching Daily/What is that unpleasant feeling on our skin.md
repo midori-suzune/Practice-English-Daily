@@ -14,7 +14,6 @@ unpack : giải thích chi tiết, làm rõ (to explain an idea, concept, or com
 
 parasite : ký sinh trùng (an animal or plant that lives on or inside another organism and feeds on it)
 
-spontaneously : một cách tự phát, tự nhiên (happening naturally or suddenly without being asked or without prior thought)
 
 catch a scratch : bị "lây" phản xạ gãi ngứa (to pick up or develop the urge to scratch after seeing or hearing someone else scratch, similar to catching an illness)
 
