@@ -60,3 +60,19 @@ Khi thực hiện commit các thay đổi trong kho lưu trữ, tuân thủ đú
 5. **Quy tắc Commit riêng lẻ (BẮT BUỘC)**:
    - **TUYỆT ĐỐI KHÔNG commit chung nhiều file** trong một lần commit.
    - Mỗi file/bài học phải được commit riêng biệt bằng `git add "<file>"` và đi kèm commit message chuẩn đúng tên bài đó.
+
+---
+
+## 4. Quy Cách Phân Tích Câu / Cụm Tiếng Anh (English Analysis Convention)
+
+Mỗi khi người dùng gửi một câu, cụm từ hoặc đoạn văn tiếng Anh để hỏi nghĩa hoặc học:
+1. **Dịch nghĩa tổng thể theo ngữ cảnh**:
+   - Dịch mượt mà, tự nhiên và bám sát đúng văn cảnh (giao tiếp đời sống, anime/rom-com, tin tức báo chí, học thuật IELTS,...).
+2. **Bóc tách các cụm từ & cấu trúc "đắt giá" (Key Takeaways)**:
+   - **Cụm từ cốt lõi / Phrasal Verbs / Idioms / Collocations**: Nêu rõ nghĩa tiếng Việt, định nghĩa tiếng Anh súc tích, sắc thái và ngữ cảnh sử dụng (ví dụ: thường đi với phủ định, mức độ thân mật hay trang trọng).
+   - **Cấu trúc ngữ pháp hay**: Bóc tách dạng công thức mẫu câu (ví dụ: `[Noun] + after + [Noun]`, `not all that + adj`, `cause someone to do something`).
+   - **Từ vựng quan trọng**: Phiên âm IPA (nếu từ dễ đọc sai/dễ nhầm), từ loại, từ đồng nghĩa hoặc cụm liên quan để paraphrase.
+3. **Ví dụ minh họa mở rộng**:
+   - Cung cấp 1-2 câu ví dụ thực tế kèm bản dịch để người học dễ ghi nhớ và ứng dụng vào Speaking/Writing.
+4. **Hình thức trình bày**:
+   - Rõ ràng, trực quan, phân mục rành mạch, in đậm từ khóa, súc tích và dễ nhớ.
