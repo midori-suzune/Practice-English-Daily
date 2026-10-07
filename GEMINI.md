@@ -7,7 +7,7 @@ Dự án này phục vụ việc học và luyện thi IELTS hàng ngày (Listen
 ## 1. Quyền Thực Thi Tự Động (Autonomous Execution)
 
 Agent được toàn quyền **tự động thực thi ngay lập tức** các công cụ và lệnh terminal phục vụ học tập, tra cứu và chỉnh sửa tài liệu mà **KHÔNG CẦN HỎI XÁC NHẬN TRƯỚC**:
-- **Thao tác Git an toàn**: `git status`, `git diff`, `git log`, `git add`, `git commit`
+- **Thao tác Git an toàn**: `git status`, `git diff`, `git log`, `git add`, `git commit`, `git push`
 - **Thao tác đọc & kiểm tra file/thư mục**: `ls`, `cat`, `grep`, `find`, `head`, `tail`, `view_file`
 - **Thao tác chỉnh sửa & tạo file**: `write_to_file`, `replace_file_content`
 - **Công cụ hỗ trợ tra cứu bài học & trích xuất transcript**: `python3`, `curl`, `pdftotext`, `yt-dlp`
@@ -60,6 +60,8 @@ Khi thực hiện commit các thay đổi trong kho lưu trữ, tuân thủ đú
 5. **Quy tắc Commit riêng lẻ (BẮT BUỘC)**:
    - **TUYỆT ĐỐI KHÔNG commit chung nhiều file** trong một lần commit.
    - Mỗi file/bài học phải được commit riêng biệt bằng `git add "<file>"` và đi kèm commit message chuẩn đúng tên bài đó.
+6. **Đồng bộ từ xa (Git Push)**:
+   - Sau khi hoàn thành các commit riêng lẻ, tự động thực hiện `git push` để đồng bộ lên remote repository.
 
 ---
 
