@@ -2,7 +2,7 @@ topic : Novel
 
 unwitting : vô tình, không biết (not aware of the full facts; not intended or planned)
 
-close call : suýt toang, tình huống nguy hiểm trong gang tấc (a situation in which a dangerous or undesirable outcome is narrowly avoided)
+close call : suýt toang (a situation in which a dangerous or undesirable outcome is narrowly avoided)
 
 heartthrob : người trong mộng (a person, often a celebrity, who is very attractive and admired by many people)
 
@@ -14,7 +14,7 @@ possessive emotions : cảm xúc chiếm hữu (feelings of jealousy or desire t
 
 unknowingly : vô tình, không biết (without being aware of the facts or consequences; unintentionally)
 
-[noun] after [noun] : hết cái này đến cái khác (a sequence of repeated people, events, or things occurring one after another)
+something after something : hết cái này đến cái khác (a sequence of repeated people, events, or things occurring one after another)
 
 make a move on someone : chủ động tiếp cận, tán tỉnh ai (to take action to initiate a romantic or sexual relationship with someone)
 
@@ -36,10 +36,10 @@ let out a grunt : kêu hự một tiếng, phát ra tiếng hừ/thở hắt ra 
 
 charge into : lao vào, xông vào (to rush forward aggressively or with determination, often into a situation or conflict)
 
-be harder than it looks : khó hơn vẻ bề ngoài, khó hơn trông thấy (something that appears easy or simple is actually more challenging or complex than expected)
+be harder than it looks to me: khó hơn tôi tưởng (to perceive something as more difficult than it appears to others)
 
 shorts : quần đùi, quần soóc (a garment worn on the lower body that covers the hips and upper legs, typically ending above the knee)
 
-skew / skewed : làm lệch / bị lệch, chênh lệch (to distort or make uneven; unevenly balanced, e.g. a skewed gender ratio)
+skew / skewed :  chênh lệch (to distort or make uneven; unevenly balanced, e.g. a skewed gender ratio)
 
 run into situations : gặp phải tình huống (to encounter or experience situations, often unexpectedly or by chance)
