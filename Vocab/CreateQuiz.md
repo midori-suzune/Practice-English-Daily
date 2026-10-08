@@ -42,23 +42,46 @@ BƯỚC TỰ KIỂM TRA TRƯỚC KHI XUẤT KẾT QUẢ (SELF-CHECK):
 - [ ] Đã bao gồm đầy đủ 100% các từ trong danh sách cung cấp chưa?
 ---
 
-itch / itchy : cảm giác ngứa / ngứa ngáy (an unpleasant feeling on your skin that makes you want to scratch; causing an itch)
+unwitting : vô tình, không biết (not aware of the full facts; not intended or planned)
 
-scratch : gãi ngứa (to rub your nails back and forth against the skin to relieve an itch)
+close call : suýt toang (a situation in which a dangerous or undesirable outcome is narrowly avoided)
 
-itchy jumper : áo len gây ngứa ngáy (a knitted sweater that causes an uncomfortable, prickly sensation on the skin)
+heartthrob : người trong mộng (a person, often a celebrity, who is very attractive and admired by many people)
 
-loads and loads : rất nhiều, vô số (a large amount or number of something, used informally for emphasis)
+assertive : quyết đoán, tự tin (having or showing a confident and forceful personality; able to express oneself effectively)
 
-hairy : rậm lông, có nhiều lông/tóc (covered with a lot of hair)
+doesn't seem all that different : dường như không khác biệt lắm (appearing to be similar or not significantly distinct from something else)
 
-unpack : giải thích chi tiết, làm rõ (to explain an idea, concept, or complex topic in clear detail)
+possessive emotions : cảm xúc chiếm hữu (feelings of jealousy or desire to control someone or something, often in a romantic context)
 
-parasite : ký sinh trùng (an animal or plant that lives on or inside another organism and feeds on it)
+unknowingly : vô tình, không biết (without being aware of the facts or consequences; unintentionally)
 
+something after something : hết cái này đến cái khác (a sequence of repeated people, events, or things occurring one after another)
 
-catch a scratch : bị "lây" phản xạ gãi ngứa (to pick up or develop the urge to scratch after seeing or hearing someone else scratch, similar to catching an illness)
+make a move on someone : chủ động tiếp cận, tán tỉnh ai (to take action to initiate a romantic or sexual relationship with someone)
 
-scalp : da đầu (the skin covering the head, usually covered with hair)
+makeup caked on : lớp trang điểm dày cộp (makeup that has been applied in excessive amounts, often resulting in a heavy or unnatural appearance)
 
-be spot on : hoàn toàn chính xác, chuẩn xác (to be completely accurate or correct)
+a sheen of sweat : một lớp mồ hôi (a thin layer of perspiration on the skin, often indicating physical exertion or nervousness)
+
+seep through : thấm qua, rỉ ra (to pass slowly through small openings or pores; to leak or ooze out)
+
+agonize over something : đau khổ, dằn vặt, trăn trở về điều gì (to suffer mentally or emotionally over a difficult decision or situation)
+
+countermeasure : biện pháp đối phó, biện pháp phòng ngừa (an action taken to counteract or prevent a negative effect or threat)
+
+slip past : lẻn qua, lách qua (to move quietly and quickly past someone or something without being noticed)
+
+on the verge of : trên bờ vực, sắp sửa (very close to experiencing or achieving something, often implying a critical or dangerous point)
+
+let out a grunt : kêu hự một tiếng, phát ra tiếng hừ/thở hắt ra (to make a low, guttural sound, often expressing physical impact, discomfort, or exertion)
+
+charge into : lao vào, xông vào (to rush forward aggressively or with determination, often into a situation or conflict)
+
+be harder than it looks to me: khó hơn tôi tưởng (to perceive something as more difficult than it appears to others)
+
+shorts : quần đùi, quần soóc (a garment worn on the lower body that covers the hips and upper legs, typically ending above the knee)
+
+skew / skewed :  chênh lệch (to distort or make uneven; unevenly balanced, e.g. a skewed gender ratio)
+
+run into situations : gặp phải tình huống (to encounter or experience situations, often unexpectedly or by chance)
