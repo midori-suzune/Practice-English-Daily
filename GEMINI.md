@@ -8,15 +8,19 @@ Dự án này phục vụ việc học và luyện thi IELTS hàng ngày (Listen
 
 Agent được quyền thực thi các công cụ và lệnh terminal phục vụ học tập, tra cứu và xử lý tài liệu mà không cần hỏi xác nhận trước:
 - **Thao tác tra cứu & đọc**: `git status`, `git diff`, `git log`, `ls`, `cat`, `grep`, `find`, `view_file`, `python3`, `curl`, `pdftotext`, `yt-dlp`.
-- **Thao tác ghi file & Git commit/push**: **CHỈ THỰC HIỆN KHI NGƯỜI DÙNG YÊU CẦU CỤ THỂ** (ví dụ: *"lưu vào file"*, *"thêm vào ghi chú"*, *"commit cho tôi"*,...):
-  - Tuyệt đối **KHÔNG tự ý ghi vào file** hoặc **tự ý commit/push** khi người dùng chỉ gửi câu/cụm từ để hỏi nghĩa hoặc học. Khi đó chỉ phân tích theo Mục 4.
-  - Khi đã có yêu cầu cập nhật/lưu từ người dùng, Agent tự động thực hiện `write_to_file`, `replace_file_content`, `git add`, `git commit`, `git push` theo đúng quy chuẩn mà không cần hỏi lại từng bước.
+- **Thao tác chỉnh sửa & ghi file cục bộ (`write_to_file`, `replace_file_content`)**:
+  - **CHỈ THỰC HIỆN KHI CÓ YÊU CẦU CỤ THỂ TỪ NGƯỜI DÙNG** (ví dụ: *"fix error"*, *"sửa file"*, *"lưu vào file"*, *"thêm vào ghi chú"*).
+  - Tuyệt đối **KHÔNG tự ý ghi/sửa file** khi người dùng chỉ gửi câu/cụm từ/hình ảnh để hỏi nghĩa hoặc học. Khi đó chỉ phân tích theo Mục 3.
+- **Thao tác Git commit & Git push**:
+  - **TUYỆT ĐỐI KHÔNG TỰ Ý `git add`, `git commit`, `git push`** nếu người dùng **CHƯA CÓ YÊU CẦU RÕ RÀNG VỀ GIT** (như *"commit cho tôi"*, *"commit và push"*, *"push lên git"*).
+  - Khi người dùng chỉ yêu cầu sửa file, tạo file hoặc fix lỗi: **Chỉ thực hiện chỉnh sửa file cục bộ**, giải thích các thay đổi trong chat và **KHÔNG ĐƯỢC tự động commit/push**.
+  - **CHỈ THỰC HIỆN commit/push KHI NGƯỜI DÙNG NÊU ĐÍCH DANH LỆNH COMMIT HOẶC PUSH**.
 
 > ⚠️ **Chỉ hỏi xác nhận khi**: Thực hiện các thao tác phá hủy dữ liệu (như `rm -rf`, `git reset --hard`, `git push --force`).
 
 ## 2. Quy Cách Đặt Thông Điệp Commit Git (Git Commit Convention)
 
-Khi thực hiện commit các thay đổi trong kho lưu trữ, tuân thủ đúng định dạng chuẩn trong lịch sử Git của dự án:
+Chỉ thực hiện commit và push khi người dùng đã có yêu cầu rõ ràng. Khi thực hiện commit các thay đổi trong kho lưu trữ, tuân thủ đúng định dạng chuẩn trong lịch sử Git của dự án:
 
 ### Cấu trúc:
 ```text
@@ -43,13 +47,13 @@ Khi thực hiện commit các thay đổi trong kho lưu trữ, tuân thủ đú
    - **TUYỆT ĐỐI KHÔNG commit chung nhiều file** trong một lần commit.
    - Mỗi file/bài học phải được commit riêng biệt bằng `git add "<file>"` và đi kèm commit message chuẩn đúng tên bài đó.
 6. **Đồng bộ từ xa (Git Push)**:
-   - Sau khi hoàn thành các commit riêng lẻ, tự động thực hiện `git push` để đồng bộ lên remote repository.
+   - Khi người dùng có yêu cầu push (hoặc yêu cầu commit kèm push), sau khi hoàn thành các commit riêng lẻ, thực hiện `git push` để đồng bộ lên remote repository.
 
 ---
 
 ## 3. Quy Cách Phân Tích Câu / Cụm Tiếng Anh (English Analysis Convention)
 
-Mỗi khi người dùng gửi một câu, cụm từ hoặc đoạn văn tiếng Anh để hỏi nghĩa hoặc học:
+Mỗi khi người dùng gửi một câu, cụm từ, hình ảnh chứ đoạn văn , câu tiếng anh hoặc đoạn văn tiếng Anh để hỏi nghĩa hoặc học:
 > 💡 **Phạm vi phản hồi**: Phân tích trực tiếp trong đoạn chat theo các mục bên dưới. **Tuyệt đối KHÔNG tự ý ghi vào file, KHÔNG commit/push** trừ khi người dùng yêu cầu rõ ràng.
 
 1. **Dịch nghĩa tổng thể theo ngữ cảnh**:
