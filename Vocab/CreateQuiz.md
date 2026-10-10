@@ -9,8 +9,8 @@ QUY TẮC ĐỊNH DẠNG (BẮT BUỘC):
      * `definition` (Định nghĩa): Định nghĩa tiếng Anh súc tích kèm nghĩa tiếng Việt theo đúng cấu trúc: `<Định nghĩa tiếng Anh>. (<Nghĩa tiếng Việt lấy đúng theo note>)`. Bắt buộc có dấu chấm `.` kết thúc câu tiếng Anh trước khi mở ngoặc `(<Nghĩa tiếng Việt>)`.
      * `pronounce` (Phát âm): Phiên âm IPA chuẩn quốc tế.
      * `word_type` (Loại từ): Từ loại tiếng Anh (e.g. "noun", "verb", "adjective", "noun phrase", "verb phrase", "adjective phrase", "idiom",...).
-     * `example` (Ví dụ): 1 câu ví dụ tiếng Anh tự nhiên, sinh động, chuẩn ngữ pháp, gắn với ngữ cảnh đời sống/học tập/công việc thực tế, không áp dụng quá nhiều từ vựng chuyên ngành, ví dụ đơn giản dễ hiểu có liên quan trực tiếp đến thuật ngữ.
-     * `synonyms` (Từ đồng nghĩa / Cụm diễn đạt tương đương): Mảng chứa 1-2 từ hoặc **cụm paraphrase tiếng Anh có nghĩa tương đương** (đặc biệt đối với Idiom, Phrasal verb hoặc thuật ngữ khó: luôn tìm cụm từ tiếng Anh giải nghĩa/thay thế tương đương, ví dụ: `bite the bullet` ➔ `["face the challenge", "endure difficulties"]`). Bắt buộc luôn có 1-2 phần tử tiếng Anh, KHÔNG được để mảng rỗng.
+     * `example` (Ví dụ): 1 câu ví dụ tiếng Anh tự nhiên, sinh động, chuẩn ngữ pháp, gắn với ngữ cảnh đời sống/học tập/công việc thực tế. BẮT BUỘC câu ví dụ phải minh họa ĐÚNG nét nghĩa đã nêu ở `definition`. Đối với từ đa nghĩa (polysemous words), tuyệt đối không được viết ví dụ sang nét nghĩa khác (ví dụ: nếu `conservatory` có nghĩa "nhà kính/phòng kính trồng cây" thì ví dụ phải nói về cây cối/ánh nắng/nhà cửa, tuyệt đối không viết ngữ cảnh "nhạc viện/âm nhạc").
+     * `synonyms` (Từ đồng nghĩa / Cụm diễn đạt tương đương): Mảng chứa 1-2 từ hoặc **cụm paraphrase tiếng Anh có nghĩa tương đương** (đặc biệt đối với Idiom, Phrasal verb hoặc thuật ngữ khó: luôn tìm cụm từ tiếng Anh giải nghĩa/thay thế tương đương, ví dụ: `bite the bullet` ➔ `["face the challenge", "endure difficulties"]`). Bắt buộc luôn có 1-2 phần tử tiếng Anh, KHÔNG được để mảng rỗng. Bắt buộc phải đồng nhất 100% với đúng nét nghĩa được chỉ định.
        CẤM TUYỆT ĐỐI: KHÔNG DÙNG TIẾNG VIỆT TRONG MẢNG `synonyms`.
 3. CHUẨN CÚ PHÁP JSON (VALID JSON SYNTAX):
    - Tuyệt đối KHÔNG để dấu phẩy thừa ở phần tử cuối cùng (No trailing commas) tránh làm lỗi trình parse JSON.
@@ -34,54 +34,55 @@ TIÊU CHÍ CHẤT LƯỢNG NỘI DUNG:
 - **Đầy đủ**: Làm đúng và đủ tất cả các từ trong danh sách được cung cấp.
 - **Thuật ngữ**: Giữ đúng từ/cụm từ gốc (phần trước dấu 2 chấm).
 - **Văn phong**: Giải thích và ví dụ phải dễ hiểu, trực quan cho người học mọi độ tuổi, tránh dịch máy thô cứng.
+- **Nhất quán ngữ nghĩa (Strict Semantic Consistency)**: `definition`, `example` và `synonyms` bắt buộc phải khóa chặt vào DUY NHẤT một nét nghĩa được chỉ định theo nghĩa tiếng Việt cung cấp. Tuyệt đối không để xảy ra tình trạng "định nghĩa nghĩa A nhưng câu ví dụ hay từ đồng nghĩa lại minh họa cho nghĩa B" của từ đa nghĩa.
 
 BƯỚC TỰ KIỂM TRA TRƯỚC KHI XUẤT KẾT QUẢ (SELF-CHECK):
+- [ ] Tính nhất quán ngữ nghĩa: `example` và `synonyms` đã khớp hoàn toàn 100% với nét nghĩa tiếng Việt được chỉ định chưa? Có bị lẫn sang nét nghĩa khác của từ đa nghĩa không?
 - [ ] Mảng `synonyms` đã có 1-2 từ/cụm paraphrase 100% bằng tiếng Anh chưa? (Tuyệt đối không để trống và không có tiếng Việt).
 - [ ] Root JSON chỉ có `"title"` và `"words"`, tuyệt đối không có trường `"description"` chứ?
 - [ ] Cú pháp JSON hợp lệ, không có dấu phẩy thừa (trailing comma)?
 - [ ] Đã bao gồm đầy đủ 100% các từ trong danh sách cung cấp chưa?
 ---
 
-unwitting : vô tình, không biết (not aware of the full facts; not intended or planned)
 
-close call : suýt toang (a situation in which a dangerous or undesirable outcome is narrowly avoided)
+just off + place : ngay gần đâu đó (located very close to a specific place or location, often indicating proximity or convenience)
 
-heartthrob : người trong mộng (a person, often a celebrity, who is very attractive and admired by many people)
+It works out at + number : tổng cộng là (used to indicate the total amount or result of a calculation, often expressed in numerical terms)
 
-assertive : quyết đoán, tự tin (having or showing a confident and forceful personality; able to express oneself effectively)
+get on : tiến triển , làm ăn (to progress or succeed in a particular activity or endeavor, often indicating positive development or achievement)
 
-doesn't seem all that different : dường như không khác biệt lắm (appearing to be similar or not significantly distinct from something else)
+at + [time] + sharp : đúng ... giờ (at the exact or precise time, often indicating punctuality or timeliness)
 
-possessive emotions : cảm xúc chiếm hữu (feelings of jealousy or desire to control someone or something, often in a romantic context)
+sort something out : sắp xếp, giải quyết (to organize or resolve a situation or problem, often requiring effort or planning)
 
-unknowingly : vô tình, không biết (without being aware of the facts or consequences; unintentionally)
+turn up : xuất hiện (to arrive or appear at a place or event, often unexpectedly or without prior notice)
 
-something after something : hết cái này đến cái khác (a sequence of repeated people, events, or things occurring one after another)
+overhead : mái che (a structure or covering that provides shelter or protection from above, often used in outdoor settings)
 
-make a move on someone : chủ động tiếp cận, tán tỉnh ai (to take action to initiate a romantic or sexual relationship with someone)
+sandbag : bao cát (a bag filled with sand, often used for flood control, military fortifications, or construction purposes)
 
-makeup caked on : lớp trang điểm dày cộp (makeup that has been applied in excessive amounts, often resulting in a heavy or unnatural appearance)
+weigh something down : chèn/đè vật gì xuống cho nặng (to place a heavy object on something to keep it in place or prevent it from moving/blowing away)
 
-a sheen of sweat : một lớp mồ hôi (a thin layer of perspiration on the skin, often indicating physical exertion or nervousness)
+socket : ổ cắm (a device or receptacle that allows electrical plugs to connect to a power source, often used for providing electricity to appliances or devices)
 
-seep through : thấm qua, rỉ ra (to pass slowly through small openings or pores; to leak or ooze out)
+have a word with someone : nói chuyện riêng , nhắc nhở ai đó (to have a private conversation or discussion with someone, often to convey important information or advice)
 
-agonize over something : đau khổ, dằn vặt, trăn trở về điều gì (to suffer mentally or emotionally over a difficult decision or situation)
+email something : gửi cái gì qua email (to send a message or document electronically via email, often for communication or information sharing)
 
-countermeasure : biện pháp đối phó, biện pháp phòng ngừa (an action taken to counteract or prevent a negative effect or threat)
+email someone something : gửi cái gì cho ai qua email (to send a message or document electronically to a specific person via email, often for communication or information sharing)
 
-slip past : lẻn qua, lách qua (to move quietly and quickly past someone or something without being noticed)
+food hygiene : vệ sinh an toàn thực phẩm (the practice of maintaining cleanliness and safety in the handling, preparation, and storage of food to prevent contamination and ensure it is safe for consumption)
 
-on the verge of : trên bờ vực, sắp sửa (very close to experiencing or achieving something, often implying a critical or dangerous point)
+something sits with the council : cái gì thuộc về hội đồng (to be under the jurisdiction or responsibility of a local government council, often indicating administrative oversight or decision-making authority)
 
-let out a grunt : kêu hự một tiếng, phát ra tiếng hừ/thở hắt ra (to make a low, guttural sound, often expressing physical impact, discomfort, or exertion)
+that side of it : phần việc đó (the aspect or part of a situation or issue, often indicating a specific perspective or responsibility)
 
-charge into : lao vào, xông vào (to rush forward aggressively or with determination, often into a situation or conflict)
+take care of : lo liệu , xử lý (to manage or handle a task, responsibility, or situation, often indicating attention and diligence)
 
-be harder than it looks to me: khó hơn tôi tưởng (to perceive something as more difficult than it appears to others)
+jar : lọ (a container, often made of glass or ceramic, used for storing food, liquids, or other substances, typically with a wide mouth and a lid)
 
-shorts : quần đùi, quần soóc (a garment worn on the lower body that covers the hips and upper legs, typically ending above the knee)
+send something over : gửi cái gì qua (to transmit or deliver something to another person or location, often indicating the act of sending an item or information)
 
-skew / skewed :  chênh lệch (to distort or make uneven; unevenly balanced, e.g. a skewed gender ratio)
+go up : đăng lên (to post or upload content to a website or platform, often indicating the act of making information publicly accessible online)
 
-run into situations : gặp phải tình huống (to encounter or experience situations, often unexpectedly or by chance)
+insurance cover : mức , gói bảo hiểm (the extent or type of protection provided by an insurance policy, often indicating the scope of coverage for specific risks or events)
