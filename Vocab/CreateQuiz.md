@@ -44,45 +44,40 @@ BƯỚC TỰ KIỂM TRA TRƯỚC KHI XUẤT KẾT QUẢ (SELF-CHECK):
 - [ ] Đã bao gồm đầy đủ 100% các từ trong danh sách cung cấp chưa?
 ---
 
+precast : đúc sẵn (to create or form something in advance, often indicating preparation or pre-fabrication for later use)
 
-just off + place : ngay gần đâu đó (located very close to a specific place or location, often indicating proximity or convenience)
+set on somewhere : đặt ở đâu đó (to place or position something in a specific location, often indicating intention or arrangement)
 
-It works out at + number : tổng cộng là (used to indicate the total amount or result of a calculation, often expressed in numerical terms)
+tile : gạch lát (a thin, flat piece of material used for covering floors, walls, or roofs, often indicating construction or decoration)
 
-get on : tiến triển , làm ăn (to progress or succeed in a particular activity or endeavor, often indicating positive development or achievement)
+stoneware tile : gạch sứ, gạch gốm đá (a type of ceramic tile made from stoneware clay, often indicating durability and water resistance for flooring or wall applications)
 
-at + [time] + sharp : đúng ... giờ (at the exact or precise time, often indicating punctuality or timeliness)
+paper-mill : nhà máy giấy (a facility where paper is produced from raw materials, often indicating industrial production or manufacturing)
 
-sort something out : sắp xếp, giải quyết (to organize or resolve a situation or problem, often requiring effort or planning)
+exterior : ngoại thất (the outside part of a building, vehicle, or structure, often indicating design, appearance, or protection from the elements)
 
-turn up : xuất hiện (to arrive or appear at a place or event, often unexpectedly or without prior notice)
+clad with : được bao phủ bằng, được ốp bằng (to cover or encase something with a layer of material, often indicating protection, insulation, or aesthetic enhancement)
 
-overhead : mái che (a structure or covering that provides shelter or protection from above, often used in outdoor settings)
+quarry : khai thác đá (to extract stone, minerals, or other materials from a quarry, often indicating mining or construction activities)
 
-sandbag : bao cát (a bag filled with sand, often used for flood control, military fortifications, or construction purposes)
+performance venue : địa điểm biểu diễn (a location or facility where performances, events, or shows are held, often indicating entertainment or cultural activities)
 
-weigh something down : chèn/đè vật gì xuống cho nặng (to place a heavy object on something to keep it in place or prevent it from moving/blowing away)
+grand setting : bối cảnh hoành tráng (an impressive or magnificent environment or backdrop, often indicating grandeur or splendor)
 
-socket : ổ cắm (a device or receptacle that allows electrical plugs to connect to a power source, often used for providing electricity to appliances or devices)
+deliver : mang lại (to provide or present something, often indicating the act of giving or conveying a message, service, or product)
 
-have a word with someone : nói chuyện riêng , nhắc nhở ai đó (to have a private conversation or discussion with someone, often to convey important information or advice)
+acoustics : chất lượng âm thanh, âm học (the properties or qualities of a room or building that determine how sound is transmitted in it)
 
-email something : gửi cái gì qua email (to send a message or document electronically via email, often for communication or information sharing)
+forecourt : sân trước (an open area in front of a building or structure, often indicating a space for gathering, parking, or access)
 
-email someone something : gửi cái gì cho ai qua email (to send a message or document electronically to a specific person via email, often for communication or information sharing)
+ascend to : đi lên, leo lên (to move or climb upward, often indicating progression or elevation to a higher position or level)
 
-food hygiene : vệ sinh an toàn thực phẩm (the practice of maintaining cleanliness and safety in the handling, preparation, and storage of food to prevent contamination and ensure it is safe for consumption)
+re-engage : tái tham gia, tái hợp tác (to become involved or participate again in an activity, event, or process, often indicating renewed interest or commitment)
 
-something sits with the council : cái gì thuộc về hội đồng (to be under the jurisdiction or responsibility of a local government council, often indicating administrative oversight or decision-making authority)
+alteration : sự thay đổi, sự sửa đổi (the act or process of making changes or modifications, often indicating adjustment or transformation)
 
-that side of it : phần việc đó (the aspect or part of a situation or issue, often indicating a specific perspective or responsibility)
+colonnade : hàng cột (a row of columns supporting a roof or structure, often indicating architectural design or classical style)
 
-take care of : lo liệu , xử lý (to manage or handle a task, responsibility, or situation, often indicating attention and diligence)
+shade : che chắn, che bóng mát (to block or reduce light, often indicating protection from sunlight or creating a cooler environment)
 
-jar : lọ (a container, often made of glass or ceramic, used for storing food, liquids, or other substances, typically with a wide mouth and a lid)
-
-send something over : gửi cái gì qua (to transmit or deliver something to another person or location, often indicating the act of sending an item or information)
-
-go up : đăng lên (to post or upload content to a website or platform, often indicating the act of making information publicly accessible online)
-
-insurance cover : mức , gói bảo hiểm (the extent or type of protection provided by an insurance policy, often indicating the scope of coverage for specific risks or events)
+patron : khách hàng quen (regular customer or supporter of a business, organization, or establishment, often indicating loyalty or frequent engagement)
