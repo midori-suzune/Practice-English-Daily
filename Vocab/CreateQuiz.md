@@ -26,7 +26,7 @@ VÍ DỤ MẪU JSON CHUẨN FLASHCARD:
       "word_type": "noun phrase",
       "example": "Rice is the primary staple food for more than half of the world's population.",
       "synonyms": ["basic food", "dietary staple"]
-    }
+    },
   ]
 }
 
@@ -44,40 +44,14 @@ BƯỚC TỰ KIỂM TRA TRƯỚC KHI XUẤT KẾT QUẢ (SELF-CHECK):
 - [ ] Đã bao gồm đầy đủ 100% các từ trong danh sách cung cấp chưa?
 ---
 
-precast : đúc sẵn (to create or form something in advance, often indicating preparation or pre-fabrication for later use)
+slender : mảnh mai, thon thả (having a thin, graceful, or delicate form or shape, often indicating elegance or attractiveness)
 
-set on somewhere : đặt ở đâu đó (to place or position something in a specific location, often indicating intention or arrangement)
+have a light perm : uốn tóc nhẹ (to have hair that has been styled with a gentle wave or curl, often indicating a soft or natural look)
 
-tile : gạch lát (a thin, flat piece of material used for covering floors, walls, or roofs, often indicating construction or decoration)
+or rather : hay đúng hơn là (used to correct or clarify a previous statement, often indicating a more accurate description or explanation)
 
-stoneware tile : gạch sứ, gạch gốm đá (a type of ceramic tile made from stoneware clay, often indicating durability and water resistance for flooring or wall applications)
+that very same something :  chính cái gì đó (the exact same thing being referred to, often indicating emphasis or specificity)
 
-paper-mill : nhà máy giấy (a facility where paper is produced from raw materials, often indicating industrial production or manufacturing)
+in no time : ngay lập tức, trong chớp mắt (very quickly or immediately; without delay, often indicating rapid action or response)
 
-exterior : ngoại thất (the outside part of a building, vehicle, or structure, often indicating design, appearance, or protection from the elements)
 
-clad with : được bao phủ bằng, được ốp bằng (to cover or encase something with a layer of material, often indicating protection, insulation, or aesthetic enhancement)
-
-quarry : khai thác đá (to extract stone, minerals, or other materials from a quarry, often indicating mining or construction activities)
-
-performance venue : địa điểm biểu diễn (a location or facility where performances, events, or shows are held, often indicating entertainment or cultural activities)
-
-grand setting : bối cảnh hoành tráng (an impressive or magnificent environment or backdrop, often indicating grandeur or splendor)
-
-deliver : mang lại (to provide or present something, often indicating the act of giving or conveying a message, service, or product)
-
-acoustics : chất lượng âm thanh, âm học (the properties or qualities of a room or building that determine how sound is transmitted in it)
-
-forecourt : sân trước (an open area in front of a building or structure, often indicating a space for gathering, parking, or access)
-
-ascend to : đi lên, leo lên (to move or climb upward, often indicating progression or elevation to a higher position or level)
-
-re-engage : tái tham gia, tái hợp tác (to become involved or participate again in an activity, event, or process, often indicating renewed interest or commitment)
-
-alteration : sự thay đổi, sự sửa đổi (the act or process of making changes or modifications, often indicating adjustment or transformation)
-
-colonnade : hàng cột (a row of columns supporting a roof or structure, often indicating architectural design or classical style)
-
-shade : che chắn, che bóng mát (to block or reduce light, often indicating protection from sunlight or creating a cooler environment)
-
-patron : khách hàng quen (regular customer or supporter of a business, organization, or establishment, often indicating loyalty or frequent engagement)
