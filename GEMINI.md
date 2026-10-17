@@ -66,3 +66,18 @@ Mỗi khi người dùng gửi một câu, cụm từ, hình ảnh chứ đoạn
    - Cung cấp 1-2 câu ví dụ thực tế kèm bản dịch để người học dễ ghi nhớ và ứng dụng vào Speaking/Writing.
 4. **Hình thức trình bày**:
    - Rõ ràng, trực quan, phân mục rành mạch, in đậm từ khóa, súc tích và dễ nhớ.
+
+---
+
+## 4. Chuẩn Hóa Note Từ Vựng
+
+Khi người dùng yêu cầu chỉnh sửa, sửa lỗi (ví dụ: *"edit error"*, *"sửa lỗi"*, *"format lại"*):
+- **Định dạng note chuẩn (BẮT BUỘC)**:
+  ```text
+  <term> : <nghĩa tiếng Việt> (<định nghĩa tiếng Anh>)
+  ```
+- **Quy tắc chuẩn hóa**:
+  - Giữ vững cấu trúc: `<term> : <nghĩa tiếng Việt> (<định nghĩa tiếng Anh>)`. Tuyệt đối **KHÔNG** đảo ngược tiếng Anh ra trước tiếng Việt.
+  - **Tinh chỉnh định nghĩa tiếng Anh**: Tự động rút gọn nếu định nghĩa quá dài/rườm rà; chỉnh sửa cho đồng nhất, khớp sát với nét nghĩa tiếng Việt nếu bị lệch nghĩa.
+  - **Bổ sung khi thiếu**: Nếu note tay chỉ có `<term> : <nghĩa tiếng Việt>`, tự động viết bổ sung định nghĩa tiếng Anh súc tích, chuẩn xác đặt trong ngoặc đơn ở cuối.
+  - **Sửa lỗi chính tả & ngữ pháp**: Tự động sửa lỗi chính tả của từ vựng, đưa về dạng từ/cụm chuẩn xác theo ngữ cảnh.
