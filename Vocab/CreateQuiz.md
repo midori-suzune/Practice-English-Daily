@@ -6,7 +6,9 @@ QUY TẮC ĐỊNH DẠNG (BẮT BUỘC):
    - Cấp cao nhất (Root) CHỈ ĐƯỢC CHỨA ĐÚNG 2 KEY: `"title"` và `"words"`. TUYỆT ĐỐI KHÔNG thêm `"description"` hay bất kỳ trường nào khác.
    - Mỗi item trong `"words"` CHỈ ĐƯỢC CHỨA ĐÚNG 6 KEY sau:
      * `term`: Từ/cụm từ tiếng Anh gốc (giữ nguyên không đổi).
-     * `definition`: Lấy định nghĩa tiếng Anh kèm nghĩa tiếng Việt theo đúng cấu trúc: `<Định nghĩa tiếng Anh>. (<Nghĩa tiếng Việt>)`. Bắt buộc có dấu chấm `.` kết thúc câu tiếng Anh trước khi mở ngoặc `(<Nghĩa tiếng Việt>)`.
+     * `definition`: Lấy định nghĩa tiếng Anh kèm nghĩa tiếng Việt theo đúng cấu trúc: `<Định nghĩa tiếng Anh>. (<Nghĩa tiếng Việt>)`.
+       - Bắt buộc có dấu chấm `.` kết thúc câu tiếng Anh trước khi mở ngoặc `(<Nghĩa tiếng Việt>)`.
+       - **NGUYÊN TẮC BẮT BUỘC CHO NGHĨA TIẾNG VIỆT**: Phần nghĩa tiếng Việt trong ngoặc `(...)` PHẢI giữ CHÍNH XÁC NGUYÊN VĂN 100% từ bản ghi chú của người dùng (phần nằm ngay sau dấu `:`). TUYỆT ĐỐI KHÔNG tự ý suy diễn, dịch lại, viết thêm từ ngữ hay diễn giải dài dòng (Ví dụ: note ghi `đóng sách` thì phải để `(Đóng sách)`, note ghi `gấp và may` thì để `(Gấp và may)`, TUYỆT ĐỐI KHÔNG tự bôi thêm thành `(Gấp và may các tờ giấy lại với nhau trong nghề đóng sách)`).
      * `pronounce`: Phiên âm IPA chuẩn quốc tế.
      * `word_type`: Từ loại tiếng Anh (e.g. "noun", "verb", "adjective", "noun phrase", "verb phrase", "adjective phrase", "idiom",...).
      * `example`: 1 câu ví dụ tiếng Anh tự nhiên, sinh động, chuẩn ngữ pháp (100% TIẾNG ANH), gắn với ngữ cảnh đời sống/học tập/công việc thực tế. BẮT BUỘC câu ví dụ phải minh họa ĐÚNG nét nghĩa đã nêu ở `definition`. Đối với từ đa nghĩa (polysemous words), tuyệt đối không được viết ví dụ sang nét nghĩa khác.
@@ -31,20 +33,30 @@ VÍ DỤ MẪU JSON CHUẨN FLASHCARD:
 }
 
 ---
-ĐỊNH DẠNG ĐẦU VÀO:
-term : định nghĩa tiếng Anh (nghĩa tiếng Việt)
-
-convince somebody : to persuade or influence someone to believe or do something, often indicating a change in opinion or behavior (thuyết phục ai đó)
-
-courtyard : an open area enclosed by the walls of a building or complex, often indicating a space for outdoor activities or gatherings (sân trong)
-
-commoner : a person who is not of noble rank or status, often indicating an ordinary or average individual (dân thường)
-
-enroll under the status of something : to register or join an institution, organization, or program with a specific designation or classification, often indicating a formal affiliation or membership (nhập học với tư cách là)
-
-slowpoke : a person who is slow to act, respond, or understand, often indicating a lack of quickness or alertness (người chậm chạp)
-
-commotion : a state of excitement, disturbance, or agitation, often indicating a situation of confusion or unrest (náo động, xôn xao)
 
 
+ducal house : nhà công tước (a noble family or household headed by a duke)
 
+forsaken : bỏ hoang, bị bỏ rơi (abandoned or deserted)
+
+be mindful of something : chú ý đến điều gì đó (to be aware of and pay attention to something)
+
+put someone through the wringer : làm ai đó trải qua gian nan (to make someone go through a difficult or unpleasant ordeal)
+
+seasoned : dày dạn kinh nghiệm (experienced and skilled in a particular activity or field)
+
+concubine : thiếp, vợ lẽ (a woman who lives with a man with lower status than his wife)
+
+status has dropped : địa vị đã giảm (one's social or professional position has decreased)
+
+faint : ngất xỉu (to lose consciousness for a short time)
+
+reach the pinnacle of something : đạt đến đỉnh cao của điều gì đó (to achieve the highest point or level of something)
+
+on my own : tự mình (without help from anyone else; independently)
+
+podium : bục giảng, bục phát biểu (a small platform on which a person stands to give a speech or lecture)
+
+let through : cho phép đi qua (to allow someone or something to pass through)
+
+repel : đẩy lùi (to force or drive back an enemy or attack)
