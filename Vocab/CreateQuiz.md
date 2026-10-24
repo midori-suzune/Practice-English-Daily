@@ -34,6 +34,3 @@ VÍ DỤ MẪU JSON CHUẨN FLASHCARD:
 
 ---
 
-
-
-
