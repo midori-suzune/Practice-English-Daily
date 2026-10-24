@@ -81,3 +81,18 @@ Khi người dùng yêu cầu chỉnh sửa, sửa lỗi (ví dụ: *"edit error
   - **Tinh chỉnh định nghĩa tiếng Anh**: Tự động rút gọn nếu định nghĩa quá dài/rườm rà; chỉnh sửa cho đồng nhất, khớp sát với nét nghĩa tiếng Việt nếu bị lệch nghĩa.
   - **Bổ sung khi thiếu**: Nếu note tay chỉ có `<term> : <nghĩa tiếng Việt>`, tự động viết bổ sung định nghĩa tiếng Anh súc tích, chuẩn xác đặt trong ngoặc đơn ở cuối.
   - **Sửa lỗi chính tả & ngữ pháp**: Tự động sửa lỗi chính tả của từ vựng, đưa về dạng từ/cụm chuẩn xác theo ngữ cảnh.
+
+---
+
+## 5. Quy Cách Kiểm Tra Câu Ví Dụ (Check Example Convention)
+
+Mỗi khi người dùng đưa ra câu ví dụ tự đặt và yêu cầu kiểm tra (ví dụ: *"check example"*, *"kiểm tra câu này"*, *"sửa giúp tôi câu này"*):
+> 💡 **Tiêu chí hàng đầu: Ngắn gọn - Đúng trọng tâm - Không dài dòng lê thê.** Tôn trọng cụm từ/từ vựng mục tiêu mà người dùng đang muốn áp dụng.
+
+1. **Điểm cần sửa (Ngắn gọn 1-2 dòng)**:
+   - Chỉ ra ngay lỗi then chốt (chia thì, mạo từ, giới từ hoặc dùng từ) một cách súc tích, không phân tích lý thuyết dài dòng.
+2. **Câu sửa chuẩn tự nhiên (Fixed Sentence)**:
+   - Giữ nguyên cấu trúc/cụm từ người dùng đang luyện, sửa lại cho đúng ngữ pháp và tự nhiên nhất.
+   - Kèm bản dịch tiếng Việt mượt mà ngay bên dưới.
+3. **Mở rộng / Nâng cao (Tùy chọn, tối đa 1 câu nếu cần thiết)**:
+   - Nếu có cách diễn đạt tự nhiên hơn hoặc ngữ cảnh lưu ý đặc biệt, chỉ nêu ngắn gọn trong 1 câu ví dụ.
