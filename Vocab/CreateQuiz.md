@@ -32,12 +32,16 @@ VÍ DỤ MẪU JSON CHUẨN FLASHCARD:
   ]
 }
 
-nursery : nhà trẻ, trường mầm non (a daycare or preschool for young children)
+catch one's breath : lấy lại hơi, thở đều lại (to rest and recover normal breathing after exertion)
 
-fill a void : lấp đầy khoảng trống (to find something to replace a loss or emptiness)
+pendant : mặt dây chuyền (a piece of jewelry that hangs from a chain around the neck)
 
-such and such : cái nọ cái kia, việc này việc nọ (used to refer to something without specifying exact details)
+chamber : gian phòng, mật thất (a large room or enclosed space, especially in a castle or dungeon)
 
-hear on the grapevine : nghe phong phanh, nghe đồn (to hear news or rumors through informal channels)
+lie dormant : nằm im lìm, ngủ yên (to remain inactive or asleep, but capable of becoming active again)
 
-break down stereotypes : xóa bỏ định kiến (to challenge and disprove fixed ideas about a group)
+hassle : sự phiền toái, rắc rối (a situation causing difficulty, trouble, or annoyance)
+
+outmaneuver : chiếm thế thượng phong, đi trước một bước (to gain an advantage over someone through cleverer tactics)
+
+sloppy : cẩu thả, lỏng lẻo (careless, untidy, or poorly executed)
